@@ -1,7 +1,7 @@
+# INTRO
 I'm reviving a side project from the past. 
 
-Warning: this is a work in progress 
-
+**Warning** : this is a work in progress 
 
 # USAGE
 ```
