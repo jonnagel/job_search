@@ -1,7 +1,23 @@
 class Job(object):
+    """
+
+    ...
+
+    Attributes
+    ----------
+    title: str
+        Job title
+    text: str
+        TODO
+
+    Methods
+    -------
+    _parse_job_title(title):
+        lowercase and remove all non ascii
+
+    """
     def __init__(self):
         """
-
         Takes:
         Returns:
         """
@@ -12,7 +28,6 @@ class Job(object):
 
     def _parse_job_title(s):
         """
-        
         Takes:
         Returns:
         """
@@ -27,3 +42,12 @@ class Job(object):
             wide_df.loc[s.str.find(t).ne(-1), t] = True
         wide_df = wide_df.fillna(False)
         return((s, wide_df))
+
+    def __doc__(self):
+        pass
+
+    def __repr__(self):
+        pass
+
+    def __str__(self):
+        pass
