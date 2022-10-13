@@ -4,9 +4,8 @@ deterministically match opportunities with with my personality via similarity
 matching methods. 
 
 Datasets:
-
-# web job search APIs (more info to be added)
-# personal email, personality tests, etc
+1. web job search APIs (more info to be added)
+1. personal email, personality tests, etc
 
 **Warning** : this is a work in progress 
 
