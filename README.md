@@ -1,5 +1,12 @@
 # INTRO
-I'm reviving a side project from the past. 
+I'm reviving a side project from the past. The goal is to efficiently and
+deterministically match opportunities with with my personality via similarity 
+matching methods. 
+
+Datasets:
+
+# web job search APIs (more info to be added)
+# personal email, personality tests, etc
 
 **Warning** : this is a work in progress 
 
