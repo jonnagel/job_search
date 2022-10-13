@@ -11,7 +11,8 @@ Datasets:
 
 # USAGE
 ```
-from lib import SearchBIC, MLStripper, TFText
+from src.SearchBIC import SearchBIC
+from src.tftext import TFText
 searches = ['data science', 'python', 'decision science', 'data analyst']
 bic = SearchBIC(searches)
 bic.update()
